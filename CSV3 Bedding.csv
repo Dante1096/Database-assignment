@@ -1,0 +1,5 @@
+﻿Bedding Source,
+,
+Bedding Source Name ,string
+Bedding Material Type ,string
+Quantity of Bedding Donated ,integer

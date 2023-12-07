@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Bedding Source></Bedding Source>
+    <FIELD2></FIELD2>
+  </row>
+  <row>
+    <Bedding Source>Bedding Source Name </Bedding Source>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Bedding Source>Bedding Material Type </Bedding Source>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Bedding Source>Quantity of Bedding Donated </Bedding Source>
+    <FIELD2>integer</FIELD2>
+  </row>
+</root>

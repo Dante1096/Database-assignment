@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Volunteer></Volunteer>
+    <FIELD2></FIELD2>
+  </row>
+  <row>
+    <Volunteer>Volunteer Name </Volunteer>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Volunteer>Contact number </Volunteer>
+    <FIELD2>integer</FIELD2>
+  </row>
+  <row>
+    <Volunteer>Volunteer Role </Volunteer>
+    <FIELD2>string</FIELD2>
+  </row>
+</root>

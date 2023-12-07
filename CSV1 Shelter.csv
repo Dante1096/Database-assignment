@@ -1,0 +1,5 @@
+﻿Shelter,
+,
+Capacity,Integer
+Location,string
+Contruction material,string

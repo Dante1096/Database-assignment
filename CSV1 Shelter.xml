@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Shelter></Shelter>
+    <FIELD2></FIELD2>
+  </row>
+  <row>
+    <Shelter>Capacity</Shelter>
+    <FIELD2>Integer</FIELD2>
+  </row>
+  <row>
+    <Shelter>Location</Shelter>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Shelter>Contruction material</Shelter>
+    <FIELD2>string</FIELD2>
+  </row>
+</root>

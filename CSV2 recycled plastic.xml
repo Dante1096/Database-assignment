@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Recycled Plastic Source></Recycled Plastic Source>
+    <FIELD2></FIELD2>
+  </row>
+  <row>
+    <Recycled Plastic Source>Source Name </Recycled Plastic Source>
+    <FIELD2>string </FIELD2>
+  </row>
+  <row>
+    <Recycled Plastic Source>Material Type </Recycled Plastic Source>
+    <FIELD2>string </FIELD2>
+  </row>
+  <row>
+    <Recycled Plastic Source>Quantity Donated </Recycled Plastic Source>
+    <FIELD2>integer</FIELD2>
+  </row>
+</root>

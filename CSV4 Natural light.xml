@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Natural light></Natural light>
+    <FIELD2></FIELD2>
+  </row>
+  <row>
+    <Natural light>Shelter Name</Natural light>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Natural light>Window supplier name</Natural light>
+    <FIELD2>string</FIELD2>
+  </row>
+  <row>
+    <Natural light>Solar design availability</Natural light>
+    <FIELD2>boolean</FIELD2>
+  </row>
+</root>
